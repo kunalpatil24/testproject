@@ -15,3 +15,6 @@
 
 /* End of file profiler.php */
 /* Location: ./application/config/profiler.php */
+
+asdasdsa
+dsadasdsa
