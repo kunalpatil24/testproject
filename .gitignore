@@ -1,1 +1,3 @@
-kptest.php
+$ cat .gitignore
+*.txt
+git rm Hello.class
